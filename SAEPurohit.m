@@ -4,7 +4,7 @@ clear; close all; clc;
 
 % import from excel
 
-% DSM = readmatrix('SAE 549 Matrix Method Purohit.xlsm','Sheet','Entity','Range','D3:M10')
+% DSM = readmatrix('SAE 549 Matrix Method Purohit.xlsm','Sheet','Entity','Range','D3:M10') % Add the range based on your matrix
 
 % or
 
